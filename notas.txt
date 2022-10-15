@@ -1,0 +1,7 @@
+git status (vizualizar archivos nuevos)
+git add (nombre de archivos nuevos "extensión)
+git commit -m "nombre del commit"
+git push -u origin master
+
+
+comandos para hacer modificaciones en tu repositorio remoto. 
