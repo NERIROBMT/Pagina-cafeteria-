@@ -1,0 +1,22 @@
+html {
+    background-color: lightblue;
+    padding: 0px;
+}
+
+header {
+    display: flex;
+    height: 150px;
+    background-color: slateblue
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px
+}
+
+.logo {
+    display: flex;
+    height: 150px;
+   
+}
+.contenedor {
+    height: 150px;
+}
